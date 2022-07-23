@@ -9,4 +9,4 @@ Technical documentation is any document that explains the features of the respec
 
 ![Screenshot (309)](https://user-images.githubusercontent.com/92047366/180605463-97486235-819b-4ed2-bb45-725f1e3a9fb4.png)
 ![Screenshot (310)](https://user-images.githubusercontent.com/92047366/180605500-2f0b3d28-cc60-4a91-a2b2-efedefdc1ad6.png)
-![Uploading Screenshot (311).png…]()
+
